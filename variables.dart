@@ -13,7 +13,7 @@ int main()
 
   String name2="dixit";
 
-  // dart apps can't cause runtime error
+  // dart apps can't cause runtime error because of NULL safety concept
   // 
   return 0;
 }
