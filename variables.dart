@@ -13,6 +13,8 @@ int main()
 
   String name2="dixit";
 
+  int k=2;
+  print(k);
   // dart apps can't cause runtime error because of NULL safety concept
   // 
   return 0;
