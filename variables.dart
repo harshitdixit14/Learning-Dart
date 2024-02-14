@@ -17,5 +17,7 @@ int main()
   print(k);
   // dart apps can't cause runtime error because of NULL safety concept
   // 
+  String? n; // now it is nullable type varaible
+  print(n);
   return 0;
 }
